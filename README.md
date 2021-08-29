@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Harshal Patil
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me:- harshal4804@gmail.com
